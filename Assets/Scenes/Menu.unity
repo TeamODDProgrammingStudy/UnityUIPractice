@@ -753,7 +753,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Postive
+  m_Text: Team ODD
 --- !u!222 &1772656463
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<DialogScripts xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ScriptsId>0</ScriptsId>
+  <Scripts>
+    <string>스크립트에서 데이터를 추가해 봤습니다.</string>
+    <string>이런 방법으로 데이터를 추가하실 수도 있습니다.</string>
+    <string>정말 편하고 쉽게 사용 가능하죠.</string>
+    <string>스크립트 데이터 입니다</string>
+    <string>Xml으로 출력되었습니다.</string>
+  </Scripts>
+</DialogScripts>
